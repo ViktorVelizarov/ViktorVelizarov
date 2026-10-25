@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viktorvelizarov&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22viktorvelizarov" />
 </p>
-I'm currently doing my final year of my bachelor's at Fontys, looking for a graduate internship.
+I mainly focus on web development with JavaScript frameworks, and I've also recently been looking into webXR/VR and web 3D modeling. Feel free to check my pinned projects. I'm currently in my final year of my ICT bachelor's at Fontys, looking for a graduate internship. My hobbies outside of work are playing sports, music, and games.
 
 - 📫 How to reach me fast: [viktor.velizarov1@gmail.com](mailto:viktor.velizarov1@gmail.com)
 
