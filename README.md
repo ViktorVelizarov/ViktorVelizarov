@@ -16,7 +16,7 @@ I'm currently doing my final year of my bachelor's at Fontys, looking for a grad
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,vue,node,express,next,MSSQL,MongoDB,PostgreSQL,MySQL,C#,C++,Python,.NET,Java,Docker,Google Cloud,AWS,Scrum,Agile,Git,UnrealEngine" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,tailwind,react,vue,nodejs,express,nextjs,mongodb,postgres,mysql,cs,cpp,python,dotnet,java,docker,aws,git,threejs,unreal" />
 </p>
 
 
