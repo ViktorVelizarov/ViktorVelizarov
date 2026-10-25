@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Viktor</h1>
+<h2 align="center">
+  <strong>
+    Full-Stack dev from Bulgaria
+  </strong>
+</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=viktorvelizarov&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22viktorvelizarov" />
+</p>
+I'm currently doing my final year of my bachelor's at Fontys, looking for a graduate internship.
 
-<!--
-**ViktorVelizarov/ViktorVelizarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me fast: [viktor.velizarov1@gmail.com](mailto:viktor.velizarov1@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,vue,node,express,next,MSSQL,MongoDB,PostgreSQL,MySQL,C#,C++,Python,.NET,Java,Docker,Google Cloud,AWS,Scrum,Agile,Git,UnrealEngine" />
+</p>
+
+
+---
+
+## 📈 GitHub Stats
+
+![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorvelizarov&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorvelizarov&layout=compact&theme=github_dark)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viktorvelizarov&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
