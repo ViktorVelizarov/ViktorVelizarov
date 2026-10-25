@@ -9,7 +9,7 @@
 </p>
 I mainly focus on web development with JavaScript frameworks, and I've also recently been looking into webXR/VR and web 3D modeling. Feel free to check my pinned projects. I'm currently in my final year of my ICT bachelor's at Fontys, looking for a graduate internship. My hobbies outside of work are playing sports, music, and games.
 
-- 📫 How to reach me fast: [viktor.velizarov1@gmail.com](mailto:viktor.velizarov1@gmail.com)
+The easiest way to reach me: [viktor.velizarov1@gmail.com](mailto:viktor.velizarov1@gmail.com)
 
 ---
 
@@ -24,7 +24,7 @@ I mainly focus on web development with JavaScript frameworks, and I've also rece
 
 ## 📈 GitHub Stats
 
-![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorvelizarov&layout=compact&theme=github_dark)
+![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktorvelizarov&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorvelizarov&layout=compact&theme=github_dark)
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viktorvelizarov&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
